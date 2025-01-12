@@ -1,16 +1,12 @@
-## Hi there 👋
+## WOWZA‼
 
-<!--
-**GAAAAAABE/GAAAAAABE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GAAAAAABE** is a ✨ _special_ ✨ person because his `README.md` (this file) really sucks.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on https://github.com/BetaPhIII/overhead-handcontroller-receiver-capstone
+- 🌱 I’m currently learning how to use this site
+- 👯 I’m looking to collaborate on NOTHING
+- 🤔 I’m looking for help with life
+- 💬 Ask *yourself* why you're reading this
+- 📫 How to reach me: gabriel.vicente.hernandez@gmail.com
+- 😄 Pronouns: HE/HE/HE
+- ⚡ Fun fact: I'm the only senior who has *never* been employed!
